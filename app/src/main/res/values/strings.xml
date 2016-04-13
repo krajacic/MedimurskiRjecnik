@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MedimurskiRjecnik</string>
+    <string name="app_name">Medimurski Rjecnik</string>
+    <string name="title_activity_dictionary">DictionaryActivity</string>
 </resources>
